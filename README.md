@@ -23,7 +23,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./img/6.gif"/>
+<img align="left" height="295px" width="300px" alt="quote" src="./img/8.gif"/>
 <table align="right" height="295px">
  <tr>
     <td align="center">
@@ -144,7 +144,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./img/9.gif" alt="anime coding">
+<img align="left" width="300px" height="220px" src="./img/9.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="https://docs.google.com/document/d/14N1V5rzWBgOyBiW7KUNxg3Ay0e0S_znhI9WZFrBh64U/edit?usp=sharing" alt="currículo">
@@ -157,7 +157,7 @@
   </a> 
   <a href="https://www.linkedin.com/in/johnatandejesus/" alt="Linkedin" target="_blank">
     <img src="./img/button/linkedin.svg" alt="linkedin">
-  </a>
+  </a><br>
   <a href="https://wa.me/5561983022902" alt="WhatsApp" target="_blank">
     <img src="./img/button/whatsapp.svg" alt="Whatsapp">
   </a>
