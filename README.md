@@ -144,27 +144,25 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
-<img align="left" width="220px" height="180px" src="./images/who-are-you.gif" alt="anime coding">
+<img align="left" width="220px" height="180px" src="./img/1.gif" alt="anime coding">
 <br><br>
 <p align="center">
-  <a href="https://docs.google.com/document/d/1h95nKIQ5ASSYmv8kV7I2Za1CLo9_5ELUt92S_SSwaSk/edit?usp=sharing" alt="currículo">
-    <img src="./images/button/curriculo.svg" alt="currículo">
+  <a href="https://docs.google.com/document/d/14N1V5rzWBgOyBiW7KUNxg3Ay0e0S_znhI9WZFrBh64U/edit?usp=sharing" alt="currículo">
+    <img src="./img/button/curriculo.svg" alt="currículo">
   </a>
-  <a href = "mailto:desenvjonathan@hotmail.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "mailto:johnatan1gabriel@gmai.com" alt="e-mail"><img src="./img/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://desenvjonathan.github.io/mini-portfolio/" alt="Portfólio" target="_blank">
-    <img src="./images/button/portfolio.svg" alt="Portfólio">
+  <a href="https://github.com/johnatandjesus/portfolio" alt="Portfólio" target="_blank">
+    <img src="./img/button/portfolio.svg" alt="Portfólio">
   </a> 
-  <a href="https://www.linkedin.com/in/jonathan-ramos-p/" alt="Linkedin" target="_blank">
-    <img src="./images/button/linkedin.svg" alt="linkedin">
+  <a href="https://www.linkedin.com/in/johnatandejesus/" alt="Linkedin" target="_blank">
+    <img src="./img/button/linkedin.svg" alt="linkedin">
   </a>
-  <a href="https://wa.me/5561982272090?text=Sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." alt="WhatsApp" target="_blank">
-    <img src="./images/button/whatsapp.svg" alt="Whatsapp">
+  <a href="https://wa.me/5561983022902" alt="WhatsApp" target="_blank">
+    <img src="./img/button/whatsapp.svg" alt="Whatsapp">
   </a>
-  <a href="https://www.instagram.com/jon_ramos97/" alt="Instagram" target="_blank">
-    <img src="./images/button/instagram.svg" alt="Instagram">
-  </a>
-  <img src="./images/button/discord.svg" alt="discord">
+  <a href="https://www.instagram.com/johnatandjesus/" alt="Instagram" target="_blank">
+    <img src="./img/button/instagram.svg" alt="Instagram">
 </p>
 <br><br><br>
 
