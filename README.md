@@ -1,8 +1,8 @@
-<img align="left" width="100%" alt="about" src="./images/mario-dev.gif"/>
+<img align="left" width="100%" alt="about" src="./img/Capa GitHub John.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
+<img align="right" src="./img/4.gif" width="313px" height="313px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
@@ -16,15 +16,14 @@
   </tr>
 </table> -->
 <ul align="left">
-    <li>🤩️ Amante de Tecnologia, Jogos, Café, Anime e Lo-Fi 🤩️</li><br>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
-    <li>💻 Estudo na Faculdade <a href="https://www.iesb.br/" target="_blank">IESB</a> e na escola de formação de devs <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>. Estou praticando <b>JavaScript</b> e <b>React</b> na Rocketseat, e <b>Python</b> na IESB 💻</li><br>
-    <li>🔮 Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End (talvez Fullstack) Web e Mobile 🔮</li><br>
+    <li>👋🏽 Olá, Sou um desenvolvedor Front-End, mas estudo em paralelo tecnologias de Back-end e Mobile, pois tenho o objetivo de longo prazo de me tornar Full-Stack.</li><br>
+    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
+    <li>🎓 Tenho autonomia em diversas das tecnologias Front-End do mercado e busco ao máximo senso crítico na experiência de usuário, assim desenvolvo aplicações com qualidade, e que preferencialmente me desafiem para que eu busque soluções inovadoras. Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido em ReactJS e seu ecossistema de tecnologia, sendo algumas delas: Sass, TypeScript, Bootstrap e NodeJS. Sou formado em Engenharia Civil e em breve estarei formado em Análise e Desenvolvimento de Sistemas na UNIP.</li><br>
 </ul>
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
+<img align="left" height="295px" width="300px" alt="quote" src="./img/3.gif"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
@@ -70,10 +69,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vitejs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>
       <sub>
         <b>
-          <pre>Vite</pre>
+          <pre>Bootstrap</pre>
         </b>
       </sub>
     </td>
