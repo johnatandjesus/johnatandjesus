@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./img/6.gif" width="313px" height="313px" alt="about me">
+<img align="right" src="./img/8.gif" width="313px" height="313px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
@@ -18,13 +18,13 @@
 <ul align="left">
     <li>👋🏽 Olá, Sou um desenvolvedor Front-End, mas estudo em paralelo tecnologias de Back-end e Mobile, pois tenho o objetivo de longo prazo de me tornar Full-Stack.</li><br>
     <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho 🚀</li><br>
-    <li>🎓 Tenho autonomia em diversas das tecnologias Front-End do mercado e busco ao máximo senso crítico na experiência de usuário, assim desenvolvo aplicações com qualidade, e que preferencialmente me desafiem para que eu busque soluções inovadoras. Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido em ReactJS e seu ecossistema de tecnologia, sendo algumas delas: Sass, TypeScript, Bootstrap e NodeJS. Sou formado em Engenharia Civil e em breve estarei formado em Análise e Desenvolvimento de Sistemas na UNIP.</li><br>
+    <li>🎓 Após construir sólidas bases em lógica de programação, HTML, CSS, Javascript e Git/Github, tenho evoluido em ReactJS e seu ecossistema de tecnologia, sendo algumas delas: Sass, TypeScript, Bootstrap e NodeJS. Sou formado em Engenharia Civil e em breve estarei formado em Análise e Desenvolvimento de Sistemas na UNIP.</li><br>
 </ul>
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="./img/3.gif"/>
-<table align="right" height="300px">
+<img align="left" height="295px" width="300px" alt="quote" src="./img/6.gif"/>
+<table align="right" height="450px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
@@ -158,6 +158,21 @@
       <sub>
         <b>
           <pre>Insomnia</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td> <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
         </b>
       </sub>
     </td>
