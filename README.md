@@ -2,7 +2,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
-<img align="right" src="./img/8.gif" width="313px" height="313px" alt="about me">
+<img align="right" src="./img/3.gif" width="313px" height="313px" alt="about me">
 <!-- <table align="center">
   <tr>
     <td>
@@ -24,76 +24,74 @@
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
 <img align="left" height="295px" width="300px" alt="quote" src="./img/6.gif"/>
-<table align="right" height="450px">
-  <tr>
+<table align="right" height="295px">
+ <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
       <sub>
         <b>
-          <pre>VSCode</pre>
+          <pre>ReactJS</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
       <sub>
         <b>
-          <pre>HTML</pre>
+          <pre>Javascript</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS&ensp;</pre>
-        </b>
+          <pre>HTML5</pre>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>JavaScript</pre>
-        </b>
+          <pre>CSS3</pre>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>React</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
+  </tr>
+    <tr>
+    <td align="center">
+    <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;GitHub&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Sass</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="github icon"/><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="figma icon"/><br>
       <sub>
         <b>
           <pre>Figma</pre>
@@ -101,7 +99,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
+      <img src="https://skillicons.dev/icons?i=markdown" width="65px" alt="Markdown icon"/><br>
       <sub>
         <b>
           <pre>Markdown</pre>
@@ -109,37 +107,19 @@
       </sub>
     </td>
   </tr>
-<!--<td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177162603-b078ec0b-5097-4067-9e04-f2e260e298a8.png" width="65px" alt="Yarn/npm icon"/><br>
-      <sub>
-        <b>
-          <pre>Yarn/npm</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br>
+      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
       <sub>
         <b>
-          <pre>TypeScript</pre>
-        </b>
+          <pre>Linux /<br>Windows</pre>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
       <sub>
         <b>
-          <pre>Tailwind</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
+          <pre>VSCode</pre>
         </b>
       </sub>
     </td>
@@ -151,32 +131,15 @@
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65px" alt="SQL Server icon"/><br>
       <sub>
         <b>
-          <pre>Insomnia</pre>
+          <pre>SQL Server</pre>
         </b>
       </sub>
     </td>
-     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td> <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>-->
+  </tr>
 </table> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
