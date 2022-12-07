@@ -152,7 +152,7 @@
   </a>
   <a href = "mailto:johnatan1gabriel@gmai.com" alt="e-mail"><img src="./img/button/e-mail.svg" target="_blank">
   </a> 
-  <a href="https://github.com/johnatandjesus/portfolio" alt="Portfólio" target="_blank">
+  <a href="https://johnatandjesus.github.io/portfolio/" alt="Portfólio" target="_blank">
     <img src="./img/button/portfolio.svg" alt="Portfólio">
   </a> 
   <a href="https://www.linkedin.com/in/johnatandejesus/" alt="Linkedin" target="_blank">
@@ -171,130 +171,68 @@
 <table height="495px" width="365px">
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/desenvjonathan" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/calculadora" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=calculadora&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/mini-portfolio" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=mini-portfolio&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/youtube-clone" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=youtube-clone&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/rocketnotes" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/bikcraft-curso" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=bikcraft-curso&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/focustimer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true&cache_seconds=0">
+      <a href="https://github.com/johnatandjesus/wildbeast-aula" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=wildbeast-aula&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/imc-calculator" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/caravan-curso" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=caravan-curso&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/guessing-game" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/flexblog-curso" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=flexblog-curso&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/nlw-copa" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/animais-fantasticos-aula" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=animais-fantasticos-aula&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-     <a href="https://github.com/desenvjonathan/responsive03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive03&theme=tokyonight&hide_border=true&cache_seconds=0">
+     <a href="https://github.com/johnatandjesus/quizapp" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=quizapp&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/responsive02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive02&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/johnatandjesus/portfolio" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatandjesus&repo=portfolio&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/responsive01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive01&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/nlw-esports-explorer" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-esports-explorer&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/what-i-watch" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=what-i-watch&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/form03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form03&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/form02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form02&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/form01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form01&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/layout03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout03&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/layout02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout02&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/layout01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout01&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
+
 </table>
 <br>
 
@@ -302,38 +240,14 @@
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true&cache_seconds=0">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=johnatandjesus&theme=tokyo-night&hide_border=true&cache_seconds=0">
 <br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatandjesus&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=0">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=0">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=johnatandjesus&show_icons=true&custom_title=Johnatan's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=johnatandjesus&theme=tokyonight&hide_border=true&cache_seconds=0">
 </div>
 </details>
 <br>
 <img src="./images/heart.gif" alt="coração" height="40px" width="40px" />
 <img src="https://img.shields.io/github/license/desenvjonathan/desenvjonathan?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="desenvjonathan repo license" height="40px" />
-
-## Olá, eu sou o Johnatan
-
-- 🔭 Hoje trabalho com front e back-end
-- 🌱 Estudando React e Vue.js
-<div align="center">
-  <a href="https://github.com/johnatandjesus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnatandjesus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatandjesus&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Johnatan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Johnatan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Johnatan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Johnatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Johnatan-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-</div>
-
-##
-
-<div> 
-  <a href = "mailto:johnatan1gabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/johnatan-de-jesus-550290142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
